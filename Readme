@@ -1,1 +1,8 @@
+#TASK 1
+In task 1, i have downloaded the fits file from Hubble Legacy Archives and this is the fits file for M42.
+Afterwards i have done basic coding for the info and plotting the image of M42.
+Then for making the CSV file i have trimmed out a small part of the plot, i have done so as taking the whole plots were leading a huge number of objects which was taking time as well for execution.
+For identifying stars, galaxies and planets, i tried plotting luminosity vs object id and size vs object id. But was unable to predict anything.
 
+#TASK 2
+in task 2
